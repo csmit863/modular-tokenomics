@@ -1,5 +1,7 @@
 # Modular-Tokenomics
 
+![logo](modtokenomics.png)
+
 ## Plug-and-play components to implement tokenomics into ERC20s.
 
 #### These contracts will facilitate the implementation of various economic mechanisms, such as inflation, demurrage, burning, transfer fees/taxes, staking, and white/blacklisting. 
