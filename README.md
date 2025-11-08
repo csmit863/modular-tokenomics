@@ -22,7 +22,7 @@ $ forge install OpenZeppelin/openzeppelin-contracts
 
 #### Install the Modular Tokenomics library
 ```
-$ forge install rezahexe/Modular-Tokenomics
+$ forge install csmit863/modular-tokenomics
 ```
 
 
